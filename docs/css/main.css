@@ -435,7 +435,7 @@ table {
   font-style: normal;
 }
 * {
-  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
   letter-spacing: 0.02em;
 }
 
@@ -929,7 +929,7 @@ td, th {
 }
 
 .yy {
-  flaot: left;
+  float: left;
   width: 31%;
   margin-right: 8px;
 }
@@ -1209,7 +1209,7 @@ td, th {
   }
 
   .yy {
-    flaot: left;
+    float: left;
     width: 31%;
     margin-right: 8px;
   }
@@ -1283,12 +1283,12 @@ td, th {
 
   .name {
     width: 100%;
-    flaot: none;
+    float: none;
   }
 
   .lastname {
     width: 100%;
-    flaot: none;
+    float: none;
   }
 
   .address {
@@ -1305,17 +1305,17 @@ td, th {
   }
 
   .country {
-    flaot: none;
+    float: none;
     width: 100%;
   }
 
   .email {
-    flaot: none;
+    float: none;
     width: 100%;
   }
 
   .phone {
-    flaot: none;
+    float: none;
     width: 100%;
   }
 
