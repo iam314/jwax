@@ -177,7 +177,10 @@ footer {
 
 //BOX
 .box{
-  max-width: 380px;
+  max-width: 480px;
+}
+.space {
+  margin-bottom: 8px;
 }
 
 //TYPOGRAPHIE
@@ -226,7 +229,7 @@ p {
   display: inline-block;
   font-family: 'HKGrotesk-Light', 'sans-serif';
   font-size: 18px;
-	line-height: 138%;
+	line-height: 150%;
   color: $color-black;
   text-rendering: optimizeLegibility;
 }

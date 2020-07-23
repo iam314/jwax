@@ -557,7 +557,11 @@ footer {
 }
 
 .box {
-  max-width: 380px;
+  max-width: 480px;
+}
+
+.space {
+  margin-bottom: 8px;
 }
 
 h1 {
@@ -603,7 +607,7 @@ p {
   display: inline-block;
   font-family: "HKGrotesk-Light", "sans-serif";
   font-size: 18px;
-  line-height: 138%;
+  line-height: 150%;
   color: #1a1a1a;
   text-rendering: optimizeLegibility;
 }
