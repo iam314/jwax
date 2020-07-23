@@ -9,27 +9,32 @@
 
 <url>
   <loc>http://jwax.wtf/</loc>
-  <lastmod>2020-07-06T13:38:10+00:00</lastmod>
+  <lastmod>2020-07-23T18:41:53+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://jwax.wtf/index.html</loc>
-  <lastmod>2020-07-06T13:38:10+00:00</lastmod>
+  <lastmod>2020-07-23T18:41:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://jwax.wtf/products.html</loc>
+  <lastmod>2020-07-23T18:41:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://jwax.wtf/contact.html</loc>
-  <lastmod>2020-07-06T13:38:10+00:00</lastmod>
+  <lastmod>2020-07-23T18:41:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://jwax.wtf/privacypolicy.html</loc>
-  <lastmod>2020-07-06T13:38:10+00:00</lastmod>
+  <lastmod>2020-07-23T18:41:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://jwax.wtf/termsofuse.html</loc>
-  <lastmod>2020-07-06T13:38:10+00:00</lastmod>
+  <lastmod>2020-07-23T18:41:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
