@@ -263,7 +263,9 @@ strong {
   font-size: 21px;
 }
 
-
+.shopsspacer {
+  margin-top: 120px;
+}
 //BUTTONS AND LINKS
 .buybtn, .buybtn2 {
   display: block;
@@ -356,6 +358,23 @@ strong {
 
 a.links:hover {
 	text-decoration: none;
+  color: $color-red;
+}
+
+.shopslinks {
+  font-family: 'HKGrotesk-Bold', 'sans-serif';
+  font-size: 18px;
+  line-height: 140%;
+  display: block;
+  margin-bottom: 21px;
+  color: $color-black;
+  text-rendering: optimizeLegibility;
+  text-decoration: none;
+  transition: all 100ms ease-in-out;
+}
+
+.shopslinks:hover {
+  text-decoration: none;
   color: $color-red;
 }
 
