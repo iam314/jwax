@@ -603,6 +603,17 @@
 		"oAP": "/docs/index.html",
 		"oF": 0
 		},
+	"/js/buttons.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/docs/js/buttons-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/js/slider.js": {
 		"bF": 0,
 		"ft": 64,
