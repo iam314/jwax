@@ -162,8 +162,7 @@
     },
     "text": {
       "total": "Subtotal"
-    },
-        "popup": false
+    }
   },
   "toggle": {
     "styles": {
@@ -387,8 +386,7 @@
     },
     "text": {
       "total": "Subtotal"
-    },
-        "popup": false
+    }
   },
   "toggle": {
     "styles": {
@@ -613,8 +611,7 @@
     },
     "text": {
       "total": "Subtotal"
-    },
-    "popup": false
+    }
   },
   "toggle": {
     "styles": {
