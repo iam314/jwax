@@ -245,6 +245,11 @@ ul.bullet-list >li {
   padding-bottom: 12px;
 }
 
+.text_case {
+  text-transform: capitalize;
+  margin-top: 21px;
+  margin-bottom: 16px;
+}
 .notice {
   font-size: 14px;
   text-indent: -7px;
@@ -378,6 +383,16 @@ a.links:hover {
   color: $color-red;
 }
 
+.team-links {
+  color: $color-black;
+  text-decoration: none;
+  transition: all 50ms ease-in-out;
+}
+.team-links:hover {
+    color: $color-red;
+}
+
+
 //THANK YOU
 .thankyou {
   height: 400px;
@@ -394,6 +409,7 @@ a.links:hover {
   max-width: 400px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 48px;
 }
 
 .pbox > h1 {

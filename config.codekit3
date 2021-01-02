@@ -468,6 +468,58 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/img/team/Dimitrina_Krazhanova.png": {
+		"ft": 32768,
+		"iS": 131184,
+		"oA": 0,
+		"oAP": "/docs/img/team/Dimitrina_Krazhanova.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/img/team/Grigor_Grigorov.png": {
+		"ft": 32768,
+		"iS": 129475,
+		"oA": 0,
+		"oAP": "/docs/img/team/Grigor_Grigorov.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/img/team/Kristian_Dimitrov.png": {
+		"ft": 32768,
+		"iS": 73324,
+		"oA": 0,
+		"oAP": "/docs/img/team/Kristian_Dimitrov.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/img/team/Ralitsa_Chimshirova.png": {
+		"ft": 32768,
+		"iS": 115178,
+		"oA": 0,
+		"oAP": "/docs/img/team/Ralitsa_Chimshirova.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/img/test_sm copy.png": {
 		"ft": 32768,
 		"iS": 52360,
@@ -705,6 +757,14 @@
 		"oAP": "/docs/partials/_header_gray_legal.html",
 		"oF": 0
 		},
+	"/partials/_header_gray_team.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_header_gray_team.html",
+		"oF": 0
+		},
 	"/partials/_header_gray_thankyou.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -759,6 +819,14 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/docs/partials/_products.html",
+		"oF": 0
+		},
+	"/partials/_team.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_team.html",
 		"oF": 0
 		},
 	"/partials/_termsofuse.html": {
@@ -823,6 +891,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/sitemap.xml",
+		"oF": 0
+		},
+	"/team.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/team.html",
 		"oF": 0
 		},
 	"/termsofuse.kit": {
