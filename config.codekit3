@@ -122,12 +122,6 @@
 		"oS": 0,
 		"sct": 0
 		},
-	"/docs": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/docs/docs",
-		"oF": 0
-		},
 	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -386,6 +380,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/img/Jwax_tee.png": {
+		"ft": 32768,
+		"iS": 72102,
+		"oA": 0,
+		"oAP": "/docs/img/Jwax_tee.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/img/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -501,7 +508,7 @@
 		"oAP": "/docs/img/team/Dimitrina_Krazhanova.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
@@ -527,7 +534,7 @@
 		"oAP": "/docs/img/team/Grigor_Grigorov.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
@@ -553,7 +560,7 @@
 		"oAP": "/docs/img/team/Kristian_Dimitrov.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
@@ -566,7 +573,7 @@
 		"oAP": "/docs/img/team/Ralitsa_Chimshirova.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"ou": "lpckwebp-none",
 		"q": 100,
@@ -1014,7 +1021,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_purple",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 629750479.339311
+	"lastBuiltDate": 632181958.91940606
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
