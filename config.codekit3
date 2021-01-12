@@ -122,12 +122,6 @@
 		"oS": 0,
 		"sct": 0
 		},
-	"/docs": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/docs/docs",
-		"oF": 0
-		},
 	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -399,11 +393,11 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/img/Jwax_tee.png": {
+	"/img/jwax_tee.png": {
 		"ft": 32768,
 		"iS": 72102,
 		"oA": 0,
-		"oAP": "/docs/img/Jwax_tee.png",
+		"oAP": "/docs/img/jwax_tee.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1040,7 +1034,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_purple",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 632186519.29168999
+	"lastBuiltDate": 632186656.04896498
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
