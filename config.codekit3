@@ -122,6 +122,12 @@
 		"oS": 0,
 		"sct": 0
 		},
+	"/docs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/docs/docs",
+		"oF": 0
+		},
 	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -340,6 +346,19 @@
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
+		},
+	"/img/jwax_combo.png": {
+		"ft": 32768,
+		"iS": 89425,
+		"oA": 0,
+		"oAP": "/docs/img/jwax_combo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/img/jwax_skate.jpg": {
 		"ft": 16384,
@@ -1021,7 +1040,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_purple",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 632181958.91940606
+	"lastBuiltDate": 632185972.62714303
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
