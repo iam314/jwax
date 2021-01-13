@@ -360,6 +360,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/img/jwax_combo_2.png": {
+		"ft": 32768,
+		"iS": 83107,
+		"oA": 0,
+		"oAP": "/docs/img/jwax_combo_2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/img/jwax_skate.jpg": {
 		"ft": 16384,
 		"iS": 36270,
