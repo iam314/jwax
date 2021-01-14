@@ -646,6 +646,13 @@ strong {
   font-size: 21px;
 }
 
+.oldprice {
+  color: #1a1a1a;
+  padding-top: 26px;
+  font-size: 21px;
+  text-decoration: line-through;
+}
+
 .shopsspacer {
   margin-top: 120px;
 }
