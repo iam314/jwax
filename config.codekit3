@@ -585,6 +585,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/img/team/Iliyan_Hriskov.png": {
+		"ft": 32768,
+		"iS": 169584,
+		"oA": 0,
+		"oAP": "/docs/img/team/Iliyan_Hriskov.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/img/team/Kristian_Dimitrov.png": {
 		"ft": 32768,
 		"iS": 73324,
