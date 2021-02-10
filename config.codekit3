@@ -598,6 +598,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/img/team/Kaloian_Trenkov.png": {
+		"ft": 32768,
+		"iS": 98977,
+		"oA": 0,
+		"oAP": "/docs/img/team/Kaloian_Trenkov.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/img/team/Kristian_Dimitrov.png": {
 		"ft": 32768,
 		"iS": 73324,
@@ -951,6 +964,22 @@
 		"oAP": "/docs/partials/_products.html",
 		"oF": 0
 		},
+	"/partials/_returnandrefundpolicy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_returnandrefundpolicy.html",
+		"oF": 0
+		},
+	"/partials/_shippingpolicy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_shippingpolicy.html",
+		"oF": 0
+		},
 	"/partials/_team.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1007,12 +1036,28 @@
 		"oAP": "/docs/products.html",
 		"oF": 0
 		},
+	"/Returnandrefundpolicy.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/Returnandrefundpolicy.html",
+		"oF": 0
+		},
 	"/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/robots.txt",
+		"oF": 0
+		},
+	"/shippingpolicy.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/shippingpolicy.html",
 		"oF": 0
 		},
 	"/sitemap.xml": {
@@ -1066,7 +1111,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_purple",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 632187744.46974802
+	"lastBuiltDate": 634680456.569875
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
