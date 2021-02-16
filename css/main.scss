@@ -465,6 +465,8 @@ input, textarea,select {
 
 textarea {
   height: auto;
+  resize: vertical;
+  overflow: auto;
 }
 
 textarea:focus, input:focus, select:focus {
@@ -497,6 +499,23 @@ select {
   margin: 0;
   text-rendering: optimizeLegibility;
   transition: all 100ms ease-in-out;
+}
+
+.thnks_contact {
+  display: none;
+  margin-top: 55px;
+}
+
+.error {
+  font-family: 'HKGrotesk-Regular', 'sans-serif';
+  font-size: 18px;
+  line-height: 150%;
+  color: $color-black;
+  text-rendering: optimizeLegibility;
+  margin-top: 1.2em;
+  max-width: 476px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 //buy
