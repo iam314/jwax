@@ -848,6 +848,10 @@ select {
   color: #a9a9a9;
 }
 
+.personalinfo {
+  display: none;
+}
+
 .submit {
   font-family: "HKGrotesk-Bold", "sans-serif";
   background-color: #F41616;
