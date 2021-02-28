@@ -876,6 +876,14 @@
 		"oAP": "/docs/partials/_contact.html",
 		"oF": 0
 		},
+	"/partials/_contact_old.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_contact_old.html",
+		"oF": 0
+		},
 	"/partials/_footer.html": {
 		"cB": 0,
 		"ft": 8192,
