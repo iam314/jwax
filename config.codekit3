@@ -17,6 +17,14 @@
 		"oAP": "/docs/.gitattributes",
 		"oF": 0
 		},
+	"/april-fools.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/april-fools.html",
+		"oF": 0
+		},
 	"/buy.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -303,6 +311,19 @@
 		"oA": 0,
 		"oAP": "/docs/fonts/hkgrotesk-regular-web.woff2",
 		"oF": 0
+		},
+	"/img/april_fools.jpg": {
+		"ft": 16384,
+		"iS": 83092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/docs/img/april_fools.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/img/arrows.svg": {
 		"ft": 2097152,
@@ -843,6 +864,14 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/partials/_april-fools.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_april-fools.html",
+		"oF": 0
 		},
 	"/partials/_buy.html": {
 		"cB": 0,
