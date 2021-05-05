@@ -130,12 +130,6 @@
 		"oS": 0,
 		"sct": 0
 		},
-	"/docs": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/docs/docs",
-		"oF": 0
-		},
 	"/FAQ.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -1657,7 +1651,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_purple",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 641905430.08664
+	"lastBuiltDate": 641913644.92880404
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
