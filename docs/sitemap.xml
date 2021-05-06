@@ -9,72 +9,102 @@
 
 <url>
   <loc>https://jwax.wtf/</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://jwax.wtf/products.html</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jwax.wtf/team.html</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jwax.wtf/wheretofindus.html</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jwax.wtf/contact.html</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jwax.wtf/FAQ.html</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jwax.wtf/privacypolicy.html</loc>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jwax.wtf/termsofuse.html</loc>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jwax.wtf/shippingpolicy.html</loc>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jwax.wtf/Returnandrefundpolicy.html</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://jwax.wtf/products_inner_single_skate.html</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://jwax.wtf/products_inner_single_snow.html</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://jwax.wtf/products_inner_single_surf.html</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://jwax.wtf/products_inner_double_skate.html</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://jwax.wtf/products_inner_double_snow.html</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://jwax.wtf/products_inner_double_surf.html</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://jwax.wtf/products_inner_t-shirt.html</loc>
-  <lastmod>2021-05-05T13:21:42+00:00</lastmod>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jwax.wtf/products_inner_t-shirt-ogwax.html</loc>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jwax.wtf/products_inner_t-shirt-skatewax.html</loc>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jwax.wtf/products_inner_ogskatewax.html</loc>
+  <lastmod>2021-05-06T07:38:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
