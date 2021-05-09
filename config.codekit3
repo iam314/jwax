@@ -130,10 +130,28 @@
 		"oS": 0,
 		"sct": 0
 		},
-	"/docs": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/docs/docs",
+	"/double_pack_skate_wax.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/double_pack_skate_wax.html",
+		"oF": 0
+		},
+	"/double_pack_snow_wax.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/double_pack_snow_wax.html",
+		"oF": 0
+		},
+	"/double_pack_surf_wax.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/double_pack_surf_wax.html",
 		"oF": 0
 		},
 	"/FAQ.kit": {
@@ -642,7 +660,7 @@
 		},
 	"/img/products/sliders/Skate_wax_single__sider1.jpg": {
 		"ft": 16384,
-		"iS": 69709,
+		"iS": 41386,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/docs/img/products/sliders/Skate_wax_single__sider1.jpg",
@@ -1222,6 +1240,14 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/ogskatewax.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/ogskatewax.html",
+		"oF": 0
+		},
 	"/partials/_april-fools.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1268,6 +1294,30 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/docs/partials/_contact_old.html",
+		"oF": 0
+		},
+	"/partials/_double_pack_skate_wax.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_double_pack_skate_wax.html",
+		"oF": 0
+		},
+	"/partials/_double_pack_snow_wax.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_double_pack_snow_wax.html",
+		"oF": 0
+		},
+	"/partials/_double_pack_surf_wax.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_double_pack_surf_wax.html",
 		"oF": 0
 		},
 	"/partials/_faq.html": {
@@ -1334,6 +1384,14 @@
 		"oAP": "/docs/partials/_nav3.html",
 		"oF": 0
 		},
+	"/partials/_ogskatewax.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_ogskatewax.html",
+		"oF": 0
+		},
 	"/partials/_privacypolicy.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1350,86 +1408,6 @@
 		"oAP": "/docs/partials/_products.html",
 		"oF": 0
 		},
-	"/partials/_products_inner_double_skate.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/docs/partials/_products_inner_double_skate.html",
-		"oF": 0
-		},
-	"/partials/_products_inner_double_snow.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/docs/partials/_products_inner_double_snow.html",
-		"oF": 0
-		},
-	"/partials/_products_inner_double_surf.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/docs/partials/_products_inner_double_surf.html",
-		"oF": 0
-		},
-	"/partials/_products_inner_ogskatewax.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/docs/partials/_products_inner_ogskatewax.html",
-		"oF": 0
-		},
-	"/partials/_products_inner_single_skate.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/docs/partials/_products_inner_single_skate.html",
-		"oF": 0
-		},
-	"/partials/_products_inner_single_snow.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/docs/partials/_products_inner_single_snow.html",
-		"oF": 0
-		},
-	"/partials/_products_inner_single_surf.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/docs/partials/_products_inner_single_surf.html",
-		"oF": 0
-		},
-	"/partials/_products_inner_t-shirt-ogwax.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/docs/partials/_products_inner_t-shirt-ogwax.html",
-		"oF": 0
-		},
-	"/partials/_products_inner_t-shirt-skatewax.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/docs/partials/_products_inner_t-shirt-skatewax.html",
-		"oF": 0
-		},
-	"/partials/_products_inner_t-shirt.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/docs/partials/_products_inner_t-shirt.html",
-		"oF": 0
-		},
 	"/partials/_returnandrefundpolicy.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1444,6 +1422,54 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/docs/partials/_shippingpolicy.html",
+		"oF": 0
+		},
+	"/partials/_single_pack_skate_wax.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_single_pack_skate_wax.html",
+		"oF": 0
+		},
+	"/partials/_single_pack_snow_wax.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_single_pack_snow_wax.html",
+		"oF": 0
+		},
+	"/partials/_single_pack_surf_wax.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_single_pack_surf_wax.html",
+		"oF": 0
+		},
+	"/partials/_t-shirt-ogwax.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_t-shirt-ogwax.html",
+		"oF": 0
+		},
+	"/partials/_t-shirt-skatewax.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_t-shirt-skatewax.html",
+		"oF": 0
+		},
+	"/partials/_t-shirt.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/partials/_t-shirt.html",
 		"oF": 0
 		},
 	"/partials/_team.html": {
@@ -1502,86 +1528,6 @@
 		"oAP": "/docs/products.html",
 		"oF": 0
 		},
-	"/products_inner_double_skate.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/docs/products_inner_double_skate.html",
-		"oF": 0
-		},
-	"/products_inner_double_snow.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/docs/products_inner_double_snow.html",
-		"oF": 0
-		},
-	"/products_inner_double_surf.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/docs/products_inner_double_surf.html",
-		"oF": 0
-		},
-	"/products_inner_ogskatewax.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/docs/products_inner_ogskatewax.html",
-		"oF": 0
-		},
-	"/products_inner_single_skate.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/docs/products_inner_single_skate.html",
-		"oF": 0
-		},
-	"/products_inner_single_snow.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/docs/products_inner_single_snow.html",
-		"oF": 0
-		},
-	"/products_inner_single_surf.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/docs/products_inner_single_surf.html",
-		"oF": 0
-		},
-	"/products_inner_t-shirt-ogwax.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/docs/products_inner_t-shirt-ogwax.html",
-		"oF": 0
-		},
-	"/products_inner_t-shirt-skatewax.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/docs/products_inner_t-shirt-skatewax.html",
-		"oF": 0
-		},
-	"/products_inner_t-shirt.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/docs/products_inner_t-shirt.html",
-		"oF": 0
-		},
 	"/Returnandrefundpolicy.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -1606,12 +1552,60 @@
 		"oAP": "/docs/shippingpolicy.html",
 		"oF": 0
 		},
+	"/single_pack_skate_wax.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/single_pack_skate_wax.html",
+		"oF": 0
+		},
+	"/single_pack_snow_wax.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/single_pack_snow_wax.html",
+		"oF": 0
+		},
+	"/single_pack_surf_wax.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/single_pack_surf_wax.html",
+		"oF": 0
+		},
 	"/sitemap.xml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/docs/sitemap.xml",
+		"oF": 0
+		},
+	"/t-shirt-ogwax.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/t-shirt-ogwax.html",
+		"oF": 0
+		},
+	"/t-shirt-skatewax.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/t-shirt-skatewax.html",
+		"oF": 0
+		},
+	"/t-shirt.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/docs/t-shirt.html",
 		"oF": 0
 		},
 	"/team.kit": {
@@ -1657,7 +1651,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_purple",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 641913644.92880404
+	"lastBuiltDate": 642245451.47928405
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
