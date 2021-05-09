@@ -130,6 +130,12 @@
 		"oS": 0,
 		"sct": 0
 		},
+	"/docs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/docs/docs",
+		"oF": 0
+		},
 	"/double_pack_skate_wax.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -660,7 +666,7 @@
 		},
 	"/img/products/sliders/Skate_wax_single__sider1.jpg": {
 		"ft": 16384,
-		"iS": 41386,
+		"iS": 69709,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/docs/img/products/sliders/Skate_wax_single__sider1.jpg",
@@ -1651,7 +1657,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_purple",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 642245451.47928405
+	"lastBuiltDate": 642248913.20652401
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
