@@ -141,6 +141,14 @@
       "oAP" : "\/docs\/docs",
       "oF" : 0
     },
+    "\/double_pack_skate_wax_savosin.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/double_pack_skate_wax_savosin.html",
+      "oF" : 0
+    },
     "\/double_pack_skate_wax.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -708,6 +716,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/products\/sliders\/Jwax_t-shirt-and_skate_wax_slider1.png" : {
+      "ft" : 32768,
+      "iS" : 130348,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/Jwax_t-shirt-and_skate_wax_slider1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/products\/sliders\/Skate_wax_double__sider1.jpg" : {
       "ft" : 16384,
       "iS" : 27531,
@@ -717,6 +738,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/Skate_wax_double__sider1.png" : {
+      "ft" : 32768,
+      "iS" : 187365,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/Skate_wax_double__sider1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -734,6 +768,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/products\/sliders\/Skate_wax_double__sider2.png" : {
+      "ft" : 32768,
+      "iS" : 83020,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/Skate_wax_double__sider2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/skate_wax_doublepack_savosin.png" : {
+      "ft" : 32768,
+      "iS" : 54354,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/skate_wax_doublepack_savosin.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/products\/sliders\/Skate_wax_single__sider1.jpg" : {
       "ft" : 16384,
       "iS" : 69709,
@@ -743,6 +803,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/Skate_wax_single__sider1.png" : {
+      "ft" : 32768,
+      "iS" : 257448,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/Skate_wax_single__sider1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -760,6 +833,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/products\/sliders\/Skate_wax_single__sider2.png" : {
+      "ft" : 32768,
+      "iS" : 71270,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/Skate_wax_single__sider2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/skate_wax_singlepack_savosin.png" : {
+      "ft" : 32768,
+      "iS" : 73961,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/skate_wax_singlepack_savosin.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/products\/sliders\/Snow_wax_double__sider1.jpg" : {
       "ft" : 16384,
       "iS" : 27211,
@@ -769,6 +868,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/Snow_wax_double__sider1.png" : {
+      "ft" : 32768,
+      "iS" : 195394,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/Snow_wax_double__sider1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -786,6 +898,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/products\/sliders\/Snow_wax_double__sider2.png" : {
+      "ft" : 32768,
+      "iS" : 92917,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/Snow_wax_double__sider2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/products\/sliders\/Snow_wax_single__sider1.jpg" : {
       "ft" : 16384,
       "iS" : 40377,
@@ -795,6 +920,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/Snow_wax_single__sider1.png" : {
+      "ft" : 32768,
+      "iS" : 259603,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/Snow_wax_single__sider1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -812,6 +950,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/products\/sliders\/Snow_wax_single__sider2.png" : {
+      "ft" : 32768,
+      "iS" : 81009,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/Snow_wax_single__sider2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/products\/sliders\/Surf_wax_double__sider1.jpg" : {
       "ft" : 16384,
       "iS" : 26682,
@@ -821,6 +972,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/Surf_wax_double__sider1.png" : {
+      "ft" : 32768,
+      "iS" : 198937,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/Surf_wax_double__sider1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -838,6 +1002,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/products\/sliders\/Surf_wax_double__sider2.png" : {
+      "ft" : 32768,
+      "iS" : 90446,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/Surf_wax_double__sider2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/products\/sliders\/Surf_wax_single__sider1.jpg" : {
       "ft" : 16384,
       "iS" : 40208,
@@ -851,6 +1028,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/products\/sliders\/Surf_wax_single__sider1.png" : {
+      "ft" : 32768,
+      "iS" : 264393,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/Surf_wax_single__sider1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/products\/sliders\/Surf_wax_single__sider2.jpg" : {
       "ft" : 16384,
       "iS" : 34050,
@@ -860,6 +1050,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/Surf_wax_single__sider2.png" : {
+      "ft" : 32768,
+      "iS" : 74905,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/Surf_wax_single__sider2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -1424,6 +1627,14 @@
       "oAP" : "\/docs\/partials\/_contact.html",
       "oF" : 0
     },
+    "\/partials\/_double_pack_skate_wax_savosin.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/docs\/partials\/_double_pack_skate_wax_savosin.html",
+      "oF" : 0
+    },
     "\/partials\/_double_pack_skate_wax.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1552,6 +1763,14 @@
       "oAP" : "\/docs\/partials\/_shippingpolicy.html",
       "oF" : 0
     },
+    "\/partials\/_single_pack_skate_wax_savosin.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/docs\/partials\/_single_pack_skate_wax_savosin.html",
+      "oF" : 0
+    },
     "\/partials\/_single_pack_skate_wax.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1678,6 +1897,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/docs\/shippingpolicy.html",
+      "oF" : 0
+    },
+    "\/single_pack_skate_wax_savosin.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/single_pack_skate_wax_savosin.html",
       "oF" : 0
     },
     "\/single_pack_skate_wax.kit" : {
