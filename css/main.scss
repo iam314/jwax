@@ -162,7 +162,7 @@ footer {
 }
 .copyright {
   font-family: 'HKGrotesk-Light', 'sans-serif';
-	font-size: 12px;
+	font-size: 14px;
 	color: lighten( $color-black, 1%);
   text-rendering: optimizeLegibility;
 }
@@ -297,6 +297,17 @@ strong {
 }
 .capitalize {
   text-transform: uppercase;
+}
+
+.donation {
+  border-top: 1px solid lighten($color-black, 15);
+  line-height: 145%;
+  display: block;
+  color: lighten($color-black, 15);
+  font-size: 18px;
+  margin-top: 55px;
+  margin-bottom: 38px;
+  text-indent: -7px;
 }
 
 //BUTTONS AND LINKS
@@ -713,13 +724,16 @@ td, th {
 .graybg {
   background-color: $color-gray;
 }
+.black {
+  color: $color-black;
+}
 
 .white {
   color: $color-white;
 }
 
 .black:hover {
-  color: $color-black
+  color: $color-black;
 }
 
 .productshots {
@@ -969,7 +983,7 @@ td, th {
 
 @media screen and (max-width: 763px) {
   .copyright {
-    font-size: 10px;
+    font-size: 12px;
     text-align: center;
   }
   .product_faq_box {

@@ -734,7 +734,7 @@ footer {
 
 .copyright {
   font-family: "HKGrotesk-Light", "sans-serif";
-  font-size: 12px;
+  font-size: 14px;
   color: #1d1d1d;
   text-rendering: optimizeLegibility;
 }
@@ -867,6 +867,17 @@ strong {
 
 .capitalize {
   text-transform: uppercase;
+}
+
+.donation {
+  border-top: 1px solid #404040;
+  line-height: 145%;
+  display: block;
+  color: #404040;
+  font-size: 18px;
+  margin-top: 55px;
+  margin-bottom: 38px;
+  text-indent: -7px;
 }
 
 .buybtn, .buybtn2 {
@@ -1279,6 +1290,10 @@ td, th {
   background-color: #f2f2f2;
 }
 
+.black {
+  color: #1a1a1a;
+}
+
 .white {
   color: #ffffff;
 }
@@ -1534,7 +1549,7 @@ td, th {
 }
 @media screen and (max-width: 763px) {
   .copyright {
-    font-size: 10px;
+    font-size: 12px;
     text-align: center;
   }
 
