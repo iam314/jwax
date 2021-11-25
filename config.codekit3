@@ -7,7 +7,7 @@
       "uuidString" : "8E6373A3-22BD-4706-A30A-5C18C2ADDC22"
     }
   ],
-  "creatorBuild" : "34214",
+  "creatorBuild" : "34264",
   "files" : {
     "\/.gitattributes" : {
       "cB" : 0,
@@ -23,6 +23,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/docs\/april-fools.html",
+      "oF" : 0
+    },
+    "\/blackfriday.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/blackfriday.html",
       "oF" : 0
     },
     "\/buy.html" : {
@@ -525,6 +533,71 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/img\/products\/blackfriday\/7xskate.png" : {
+      "ft" : 32768,
+      "iS" : 41114,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/blackfriday\/7xskate.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/blackfriday\/9xskate.png" : {
+      "ft" : 32768,
+      "iS" : 40784,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/blackfriday\/9xskate.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/blackfriday\/jwax_tee_plus_double_pack.png" : {
+      "ft" : 32768,
+      "iS" : 67627,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/blackfriday\/jwax_tee_plus_double_pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/blackfriday\/jwax_tee_plus_single_pack.png" : {
+      "ft" : 32768,
+      "iS" : 63718,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/blackfriday\/jwax_tee_plus_single_pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/blackfriday\/jwax_tee.png" : {
+      "ft" : 32768,
+      "iS" : 55815,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/blackfriday\/jwax_tee.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/img\/products\/Jwax_ogskatewax.jpg" : {
       "ft" : 16384,
@@ -1644,6 +1717,14 @@
       "oAP" : "\/docs\/partials\/_april-fools.html",
       "oF" : 0
     },
+    "\/partials\/_blackfriday.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/docs\/partials\/_blackfriday.html",
+      "oF" : 0
+    },
     "\/partials\/_buy.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1738,6 +1819,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/docs\/partials\/_footer2.html",
+      "oF" : 0
+    },
+    "\/partials\/_header_blck.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/docs\/partials\/_header_blck.html",
       "oF" : 0
     },
     "\/partials\/_header_gray.kit" : {
@@ -3212,6 +3301,9 @@
       },
       "no-unused-labels" : {
         "active" : 1
+      },
+      "no-unused-private-class-members" : {
+        "active" : 0
       },
       "no-unused-vars" : {
         "active" : 1,

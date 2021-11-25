@@ -97,6 +97,11 @@ body {
   height: auto;
 }
 
+//blackfirdayheader
+.blkclr {
+  background-color: $color-black;
+}
+
 //NAVIGATION
 nav {
   margin-top: 9px;
@@ -153,6 +158,24 @@ nav ul li a:hover {
 
 nav li.current a {
 	color: $color-red;
+}
+
+.blkfriday {
+  background-color: $color-black;
+  padding: 12px 16px 13px 16px;
+  // border-radius: 16px;
+  // box-shadow: 0 4px 20px 0 rgb(0 0 0 / 45%);
+  text-rendering: optimizeLegibility;
+  transition: all 50ms ease-in-out;
+}
+
+.blkfriday:hover {
+  background-color: $color-white;
+  color: $color-black;
+    animation: shake 0.28s cubic-bezier(.36,.07,.19,.97) both;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    perspective: 1000px;
 }
 
 //FOOTER
@@ -945,8 +968,8 @@ td, th {
     margin-top: 3em;
   }
 }
-
-@media screen and (max-width: 1100px) {
+//temp media for black friday 1100
+@media screen and (max-width: 1250px) {
   .topnav  {
   display: none;
   }
