@@ -534,6 +534,19 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/img\/products\/blackfriday\/3xskate.png" : {
+      "ft" : 32768,
+      "iS" : 40678,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/blackfriday\/3xskate.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/products\/blackfriday\/7xskate.png" : {
       "ft" : 32768,
       "iS" : 41114,
