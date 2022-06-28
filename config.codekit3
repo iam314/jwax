@@ -49,6 +49,14 @@
       "oAP" : "\/docs\/buy2.html",
       "oF" : 0
     },
+    "\/caps.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/caps.html",
+      "oF" : 0
+    },
     "\/CNAME" : {
       "cB" : 0,
       "ft" : 8192,
@@ -612,12 +620,38 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/products\/jwax_caps.jpg" : {
+      "ft" : 16384,
+      "iS" : 78977,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/jwax_caps.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/products\/Jwax_ogskatewax.jpg" : {
       "ft" : 16384,
       "iS" : 20443,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/docs\/img\/products\/Jwax_ogskatewax.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/jwax_skatecaps.jpg" : {
+      "ft" : 16384,
+      "iS" : 15445,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/jwax_skatecaps.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -751,6 +785,162 @@
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/caps\/products_caps_1.jpg" : {
+      "ft" : 16384,
+      "iS" : 40206,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_caps_1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/caps\/products_caps_2.jpg" : {
+      "ft" : 16384,
+      "iS" : 40519,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_caps_2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/caps\/products_caps_3.jpg" : {
+      "ft" : 16384,
+      "iS" : 24173,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_caps_3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/caps\/products_caps_4.jpg" : {
+      "ft" : 16384,
+      "iS" : 23978,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_caps_4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/caps\/products_caps_5.jpg" : {
+      "ft" : 16384,
+      "iS" : 25639,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_caps_5.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/caps\/products_caps_6.jpg" : {
+      "ft" : 16384,
+      "iS" : 65943,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_caps_6.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/caps\/products_skate_caps_1.jpg" : {
+      "ft" : 16384,
+      "iS" : 15270,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_skate_caps_1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/caps\/products_skate_caps_2.jpg" : {
+      "ft" : 16384,
+      "iS" : 22540,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_skate_caps_2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/caps\/products_skate_caps_3.jpg" : {
+      "ft" : 16384,
+      "iS" : 27867,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_skate_caps_3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/caps\/products_skate_caps_4.jpg" : {
+      "ft" : 16384,
+      "iS" : 29914,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_skate_caps_4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/caps\/products_skate_caps_5.jpg" : {
+      "ft" : 16384,
+      "iS" : 27037,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_skate_caps_5.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/sliders\/caps\/products_skate_caps_6.jpg" : {
+      "ft" : 16384,
+      "iS" : 21503,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_skate_caps_6.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -1767,6 +1957,14 @@
       "oAP" : "\/docs\/partials\/_buy2.html",
       "oF" : 0
     },
+    "\/partials\/_caps.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/docs\/partials\/_caps.html",
+      "oF" : 0
+    },
     "\/partials\/_congrats.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1967,6 +2165,14 @@
       "oAP" : "\/docs\/partials\/_single_pack_surf_wax.html",
       "oF" : 0
     },
+    "\/partials\/_skate_caps.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/docs\/partials\/_skate_caps.html",
+      "oF" : 0
+    },
     "\/partials\/_t-shirt-ogwax.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2109,6 +2315,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/docs\/sitemap.xml",
+      "oF" : 0
+    },
+    "\/skate_caps.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/skate_caps.html",
       "oF" : 0
     },
     "\/t-shirt-ogwax.kit" : {
