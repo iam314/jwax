@@ -1483,6 +1483,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/team\/Kate_Bedrata.JPG" : {
+      "ft" : 16384,
+      "iS" : 27778,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/team\/Kate_Bedrata.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/team\/Kristian_Dimitrov.png" : {
       "ft" : 32768,
       "iS" : 73324,
