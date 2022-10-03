@@ -2680,6 +2680,14 @@
       "oAP" : "\/docs\/robots.txt",
       "oF" : 0
     },
+    "\/ror.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/ror.xml",
+      "oF" : 0
+    },
     "\/shippingpolicy.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -2728,12 +2736,28 @@
       "oAP" : "\/docs\/site.webmanifest",
       "oF" : 0
     },
+    "\/sitemap.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/sitemap.html",
+      "oF" : 0
+    },
     "\/sitemap.xml" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/docs\/sitemap.xml",
+      "oF" : 0
+    },
+    "\/sitemap.xml.gz" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/sitemap.xml.gz",
       "oF" : 0
     },
     "\/skate_caps.kit" : {
@@ -2791,6 +2815,14 @@
       "oA" : 0,
       "oAP" : "\/docs\/termsofuse.html",
       "oF" : 0
+    },
+    "\/urllist.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/urllist.txt",
+      "oF" : 0
     }
   },
   "hooks" : [
@@ -2805,7 +2837,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 686516882.45917594
+    "lastBuiltDate" : 686518045.09866905
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
