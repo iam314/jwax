@@ -1,58 +1,23 @@
 @import "variables";
 
 .mySlides {
-  display: none; }
-
-// img {
-//   vertical-align: middle;
-//   padding-bottom: 60px; }
+  display: none; 
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 100%;
   position: relative;
   margin: auto;
   cursor: grab;
+  margin-bottom: 2.5rem;
 }
 .slideshow-container:active {
   cursor: grabbing;
 }
-
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  bottom: 0;
-  width: auto;
-  color: $color-black;
-  font-weight: bold;
-  font-size: 13px;
-  transition: 0.6s ease;
-  border-radius: 0; }
-
-/* Position the "next button" to the right */
-.next {
-  right: 30%;
-  border-radius: 0; }
-
-.prev {
-  left: 30%; }
-
-/* On hover, add a black background color with a little bit see-through */
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 8px;
-  width: 8px;
-  margin: 0 2px;
-  background-color: #ffffff;
-  border-radius: 50%;
-  border: 1px solid $color-black;
-  display: inline-block;
-  transition: background-color 0.6s ease; }
-
-.active, .dot:hover {
-  background-color: $color-black; }
 
 /* Fading animation */
 .fade {
@@ -196,3 +161,113 @@
     .slick-arrow.slick-hidden {
         display: none;
     }
+
+    /* Arrows */
+.slick-prev,
+.slick-next
+{
+    font-family: 'Akrobat-Black', sans-serif;
+    font-size: 0;
+    line-height: 0;
+
+    position: absolute;
+    top: 50%;
+    z-index: 1;
+
+    display: block;
+
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+
+    cursor: pointer;
+
+    color: transparent;
+    border: none;
+    outline: none;
+    background: transparent;
+}
+.slick-prev:hover,
+.slick-prev:focus,
+.slick-next:hover,
+.slick-next:focus
+{
+    color: #1A1A1A;
+    outline: none;
+    background: transparent;
+}
+.slick-prev:hover:before,
+.slick-prev:focus:before,
+.slick-next:hover:before,
+.slick-next:focus:before
+{
+    opacity: 1;
+}
+.slick-prev.slick-disabled:before,
+.slick-next.slick-disabled:before
+{
+    opacity: .25;
+}
+
+.slick-prev:before,
+.slick-next:before
+{
+    /* font-family: 'slick'; */
+    font-family: 'Akrobat-Black', sans-serif;
+    font-size: 36px;
+    line-height: 100%;
+
+    opacity: 1;
+    color: #1A1A1A;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition: opacity .4s cubic-bezier(.59,.01,.28,1);
+    -o-transition: opacity .4s cubic-bezier(.59,.01,.28,1);
+    transition: opacity .4s cubic-bezier(.59,.01,.28,1);
+}
+
+.slick-prev
+{
+    text-align: start;
+    left: 3%;
+}
+[dir='rtl'] .slick-prev
+{
+    right: 0;
+    left: auto;
+}
+.slick-prev:before
+{
+    content: '<';
+    /* content: '←'; */
+}
+[dir='rtl'] .slick-prev:before
+{
+    content: '>';
+    /* content: '→'; */
+}
+
+.slick-next
+{
+    text-align: end;
+    right: 3%;
+}
+[dir='rtl'] .slick-next
+{
+    right: auto;
+    left: 0;
+}
+.slick-next:before
+{
+    content: '>';
+    /* content: '→'; */
+}
+[dir='rtl'] .slick-next:before
+{
+    content: '>';
+    /* content: '→'; */
+}

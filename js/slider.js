@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $('.slideshow-container').slick({
-    arrows: false
+    arrows: true
   });
 
   $('.slideshow-container').on('afterChange', function(event, slick, currentSlide, nextSlide){

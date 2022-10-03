@@ -17,37 +17,60 @@
       "oAP" : "\/docs\/.gitattributes",
       "oF" : 0
     },
-    "\/april-fools.kit" : {
+    "\/about.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/april-fools.html",
+      "oAP" : "\/docs\/about.html",
       "oF" : 0
     },
-    "\/blackfriday.kit" : {
+    "\/accessories-products.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/blackfriday.html",
+      "oAP" : "\/docs\/accessories-products.html",
       "oF" : 0
     },
-    "\/buy.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
+    "\/android-chrome-192x192.png" : {
+      "ft" : 32768,
+      "iS" : 3072,
       "oA" : 0,
-      "oAP" : "\/docs\/buy.html",
-      "oF" : 0
+      "oAP" : "\/docs\/android-chrome-192x192.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
-    "\/buy2.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
+    "\/android-chrome-512x512.png" : {
+      "ft" : 32768,
+      "iS" : 10655,
       "oA" : 0,
-      "oAP" : "\/docs\/buy2.html",
-      "oF" : 0
+      "oAP" : "\/docs\/android-chrome-512x512.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/apple-touch-icon.png" : {
+      "ft" : 32768,
+      "iS" : 2869,
+      "oA" : 0,
+      "oAP" : "\/docs\/apple-touch-icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/caps.kit" : {
       "cB" : 0,
@@ -65,14 +88,6 @@
       "oAP" : "\/docs\/CNAME",
       "oF" : 0
     },
-    "\/congrats.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/docs\/congrats.html",
-      "oF" : 0
-    },
     "\/contact.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -80,6 +95,36 @@
       "oA" : 0,
       "oAP" : "\/docs\/contact.html",
       "oF" : 0
+    },
+    "\/css\/_spacing.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/docs\/css\/_spacing.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/css\/_typographie.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/docs\/css\/_typographie.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
     },
     "\/css\/_variables.scss" : {
       "aP" : 0,
@@ -96,7 +141,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/css\/grid.scss" : {
+    "\/css\/fonts.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -105,7 +150,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/docs\/css\/grid.css",
+      "oAP" : "\/docs\/css\/fonts.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -140,6 +185,18 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/css\/slick-theme.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/css\/slick-theme-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/css\/slider.scss" : {
       "aP" : 0,
@@ -202,6 +259,32 @@
       "oAP" : "\/docs\/FAQ.html",
       "oF" : 0
     },
+    "\/favicon-16x16.png" : {
+      "ft" : 32768,
+      "iS" : 442,
+      "oA" : 0,
+      "oAP" : "\/docs\/favicon-16x16.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/favicon-32x32.png" : {
+      "ft" : 32768,
+      "iS" : 754,
+      "oA" : 0,
+      "oAP" : "\/docs\/favicon-32x32.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/favicon.ico" : {
       "cB" : 0,
       "ft" : 8192,
@@ -210,196 +293,197 @@
       "oAP" : "\/docs\/favicon.ico",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-bold-web.eot" : {
+    "\/fonts\/Akrobat-Black.eot" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-bold-web.eot",
+      "oAP" : "\/docs\/fonts\/Akrobat-Black.eot",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-bold-web.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-bold-web.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/fonts\/hkgrotesk-bold-web.ttf" : {
+    "\/fonts\/Akrobat-Black.woff" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-bold-web.ttf",
+      "oAP" : "\/docs\/fonts\/Akrobat-Black.woff",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-bold-web.woff" : {
+    "\/fonts\/Akrobat-Black.woff2" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-bold-web.woff",
+      "oAP" : "\/docs\/fonts\/Akrobat-Black.woff2",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-bold-web.woff2" : {
+    "\/fonts\/Akrobat-Bold.eot" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-bold-web.woff2",
+      "oAP" : "\/docs\/fonts\/Akrobat-Bold.eot",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-light-web.eot" : {
+    "\/fonts\/Akrobat-Bold.woff" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-light-web.eot",
+      "oAP" : "\/docs\/fonts\/Akrobat-Bold.woff",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-light-web.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-light-web.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/fonts\/hkgrotesk-light-web.ttf" : {
+    "\/fonts\/Akrobat-Bold.woff2" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-light-web.ttf",
+      "oAP" : "\/docs\/fonts\/Akrobat-Bold.woff2",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-light-web.woff" : {
+    "\/fonts\/Akrobat-ExtraBold.eot" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-light-web.woff",
+      "oAP" : "\/docs\/fonts\/Akrobat-ExtraBold.eot",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-light-web.woff2" : {
+    "\/fonts\/Akrobat-ExtraBold.woff" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-light-web.woff2",
+      "oAP" : "\/docs\/fonts\/Akrobat-ExtraBold.woff",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-medium-web.eot" : {
+    "\/fonts\/Akrobat-ExtraBold.woff2" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-medium-web.eot",
+      "oAP" : "\/docs\/fonts\/Akrobat-ExtraBold.woff2",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-medium-web.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-medium-web.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/fonts\/hkgrotesk-medium-web.ttf" : {
+    "\/fonts\/Akrobat-ExtraLight.eot" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-medium-web.ttf",
+      "oAP" : "\/docs\/fonts\/Akrobat-ExtraLight.eot",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-medium-web.woff" : {
+    "\/fonts\/Akrobat-ExtraLight.woff" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-medium-web.woff",
+      "oAP" : "\/docs\/fonts\/Akrobat-ExtraLight.woff",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-medium-web.woff2" : {
+    "\/fonts\/Akrobat-ExtraLight.woff2" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-medium-web.woff2",
+      "oAP" : "\/docs\/fonts\/Akrobat-ExtraLight.woff2",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-regular-web.eot" : {
+    "\/fonts\/Akrobat-Light.eot" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-regular-web.eot",
+      "oAP" : "\/docs\/fonts\/Akrobat-Light.eot",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-regular-web.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-regular-web.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/fonts\/hkgrotesk-regular-web.ttf" : {
+    "\/fonts\/Akrobat-Light.woff" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-regular-web.ttf",
+      "oAP" : "\/docs\/fonts\/Akrobat-Light.woff",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-regular-web.woff" : {
+    "\/fonts\/Akrobat-Light.woff2" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-regular-web.woff",
+      "oAP" : "\/docs\/fonts\/Akrobat-Light.woff2",
       "oF" : 0
     },
-    "\/fonts\/hkgrotesk-regular-web.woff2" : {
+    "\/fonts\/Akrobat-Regular.eot" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/fonts\/hkgrotesk-regular-web.woff2",
+      "oAP" : "\/docs\/fonts\/Akrobat-Regular.eot",
       "oF" : 0
     },
-    "\/img\/april_fools.jpg" : {
-      "ft" : 16384,
-      "iS" : 83092,
-      "jF" : 0,
+    "\/fonts\/Akrobat-Regular.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/img\/april_fools.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "oAP" : "\/docs\/fonts\/Akrobat-Regular.woff",
+      "oF" : 0
     },
-    "\/img\/arrows.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/docs\/img\/arrows.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
+    "\/fonts\/Akrobat-Regular.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/fonts\/Akrobat-Regular.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/Akrobat-SemiBold.eot" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/fonts\/Akrobat-SemiBold.eot",
+      "oF" : 0
+    },
+    "\/fonts\/Akrobat-SemiBold.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/fonts\/Akrobat-SemiBold.woff",
+      "oF" : 0
+    },
+    "\/fonts\/Akrobat-SemiBold.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/fonts\/Akrobat-SemiBold.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/Akrobat-Thin.eot" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/fonts\/Akrobat-Thin.eot",
+      "oF" : 0
+    },
+    "\/fonts\/Akrobat-Thin.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/fonts\/Akrobat-Thin.woff",
+      "oF" : 0
+    },
+    "\/fonts\/Akrobat-Thin.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/fonts\/Akrobat-Thin.woff2",
+      "oF" : 0
     },
     "\/img\/background copy.svg" : {
       "ft" : 2097152,
@@ -434,11 +518,11 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/img\/jwax_combo_2.png" : {
+    "\/img\/home-images\/skate-wax.png" : {
       "ft" : 32768,
-      "iS" : 83107,
+      "iS" : 141121,
       "oA" : 0,
-      "oAP" : "\/docs\/img\/jwax_combo_2.png",
+      "oAP" : "\/docs\/img\/home-images\/skate-wax.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -447,11 +531,24 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/jwax_combo.png" : {
+    "\/img\/home-images\/snow-wax.png" : {
       "ft" : 32768,
-      "iS" : 89425,
+      "iS" : 141842,
       "oA" : 0,
-      "oAP" : "\/docs\/img\/jwax_combo.png",
+      "oAP" : "\/docs\/img\/home-images\/snow-wax.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/home-images\/surf-wax.png" : {
+      "ft" : 32768,
+      "iS" : 134960,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/home-images\/surf-wax.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -499,17 +596,67 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/jwax_tee.png" : {
+    "\/img\/jwax-ogimage.png" : {
       "ft" : 32768,
-      "iS" : 72102,
+      "iS" : 19243,
       "oA" : 0,
-      "oAP" : "\/docs\/img\/jwax_tee.png",
+      "oAP" : "\/docs\/img\/jwax-ogimage.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/JWAX-skate-wax.gif" : {
+      "ft" : 4194304,
+      "iS" : 1929997,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/JWAX-skate-wax.gif",
+      "oF" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/img\/jwax-team-bmx.gif" : {
+      "ft" : 4194304,
+      "iS" : 705430,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/jwax-team-bmx.gif",
+      "oF" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/img\/jwax-team-rollerblading.gif" : {
+      "ft" : 4194304,
+      "iS" : 724909,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/jwax-team-rollerblading.gif",
+      "oF" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/img\/jwax-team-scoot.gif" : {
+      "ft" : 4194304,
+      "iS" : 791765,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/jwax-team-scoot.gif",
+      "oF" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/img\/jwax-team-skate.gif" : {
+      "ft" : 4194304,
+      "iS" : 460329,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/jwax-team-skate.gif",
+      "oF" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
       "rq" : 75
     },
     "\/img\/logo_b.svg" : {
@@ -532,34 +679,21 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/img\/logo.svg" : {
+    "\/img\/map-of-world.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/docs\/img\/logo.svg",
+      "oAP" : "\/docs\/img\/map-of-world.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/img\/products\/blackfriday\/3xskate.png" : {
+    "\/img\/products\/caps\/caps-1.png" : {
       "ft" : 32768,
-      "iS" : 40678,
+      "iS" : 271836,
       "oA" : 0,
-      "oAP" : "\/docs\/img\/products\/blackfriday\/3xskate.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/products\/blackfriday\/7xskate.png" : {
-      "ft" : 32768,
-      "iS" : 41114,
-      "oA" : 0,
-      "oAP" : "\/docs\/img\/products\/blackfriday\/7xskate.png",
+      "oAP" : "\/docs\/img\/products\/caps\/caps-1.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -568,11 +702,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/products\/blackfriday\/9xskate.png" : {
+    "\/img\/products\/caps\/caps-2.png" : {
       "ft" : 32768,
-      "iS" : 40784,
+      "iS" : 256184,
       "oA" : 0,
-      "oAP" : "\/docs\/img\/products\/blackfriday\/9xskate.png",
+      "oAP" : "\/docs\/img\/products\/caps\/caps-2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -581,37 +715,102 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/products\/blackfriday\/jwax_tee_plus_double_pack.png" : {
+    "\/img\/products\/caps\/caps-3.png" : {
       "ft" : 32768,
-      "iS" : 67627,
+      "iS" : 257945,
       "oA" : 0,
-      "oAP" : "\/docs\/img\/products\/blackfriday\/jwax_tee_plus_double_pack.png",
+      "oAP" : "\/docs\/img\/products\/caps\/caps-3.png",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/products\/blackfriday\/jwax_tee_plus_single_pack.png" : {
+    "\/img\/products\/caps\/caps-4.png" : {
       "ft" : 32768,
-      "iS" : 63718,
+      "iS" : 251879,
       "oA" : 0,
-      "oAP" : "\/docs\/img\/products\/blackfriday\/jwax_tee_plus_single_pack.png",
+      "oAP" : "\/docs\/img\/products\/caps\/caps-4.png",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/products\/blackfriday\/jwax_tee.png" : {
+    "\/img\/products\/caps\/caps-5.png" : {
       "ft" : 32768,
-      "iS" : 55815,
+      "iS" : 229259,
       "oA" : 0,
-      "oAP" : "\/docs\/img\/products\/blackfriday\/jwax_tee.png",
+      "oAP" : "\/docs\/img\/products\/caps\/caps-5.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/caps\/caps-6.png" : {
+      "ft" : 32768,
+      "iS" : 333538,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/caps\/caps-6.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/caps\/dad-caps-1.png" : {
+      "ft" : 32768,
+      "iS" : 267052,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/caps\/dad-caps-1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/caps\/dad-caps-2.png" : {
+      "ft" : 32768,
+      "iS" : 237392,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/caps\/dad-caps-2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/caps\/dad-caps-3.png" : {
+      "ft" : 32768,
+      "iS" : 120066,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/caps\/dad-caps-3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/caps\/dad-caps-4.png" : {
+      "ft" : 32768,
+      "iS" : 210044,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/caps\/dad-caps-4.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -802,6 +1001,136 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/products\/skate-wax\/skate-wax-double-pack-wax.png" : {
+      "ft" : 32768,
+      "iS" : 221135,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/skate-wax\/skate-wax-double-pack-wax.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/skate-wax\/skate-wax-double-pack.png" : {
+      "ft" : 32768,
+      "iS" : 450093,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/skate-wax\/skate-wax-double-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/skate-wax\/skate-wax-savosin-pro-double-pack-img.png" : {
+      "ft" : 32768,
+      "iS" : 271609,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/skate-wax\/skate-wax-savosin-pro-double-pack-img.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/skate-wax\/skate-wax-savosin-pro-double-pack-wax.png" : {
+      "ft" : 32768,
+      "iS" : 106619,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/skate-wax\/skate-wax-savosin-pro-double-pack-wax.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/skate-wax\/skate-wax-savosin-pro-double-pack.png" : {
+      "ft" : 32768,
+      "iS" : 433362,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/skate-wax\/skate-wax-savosin-pro-double-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/skate-wax\/skate-wax-savosin-pro-single-pack-img.png" : {
+      "ft" : 32768,
+      "iS" : 274412,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/skate-wax\/skate-wax-savosin-pro-single-pack-img.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/skate-wax\/skate-wax-savosin-pro-single-pack-wax.png" : {
+      "ft" : 32768,
+      "iS" : 182245,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/skate-wax\/skate-wax-savosin-pro-single-pack-wax.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/skate-wax\/skate-wax-savosin-pro-single-pack.png" : {
+      "ft" : 32768,
+      "iS" : 558606,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/skate-wax\/skate-wax-savosin-pro-single-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/skate-wax\/skate-wax-single-pack-wax.png" : {
+      "ft" : 32768,
+      "iS" : 184740,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/skate-wax\/skate-wax-single-pack-wax.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/skate-wax\/skate-wax-single-pack.png" : {
+      "ft" : 32768,
+      "iS" : 591512,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/skate-wax\/skate-wax-single-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/products\/sliders\/caps\/products_caps_1.jpg" : {
       "ft" : 16384,
       "iS" : 40206,
@@ -810,7 +1139,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_caps_1.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -823,7 +1152,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_caps_2.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -836,7 +1165,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_caps_3.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -849,7 +1178,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_caps_4.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -862,7 +1191,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_caps_5.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -875,7 +1204,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_caps_6.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -888,7 +1217,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_skate_caps_1.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -901,7 +1230,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_skate_caps_2.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -914,7 +1243,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_skate_caps_3.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -927,7 +1256,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_skate_caps_4.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -940,7 +1269,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_skate_caps_5.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -953,7 +1282,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/caps\/products_skate_caps_6.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -1082,7 +1411,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/skate_wax_doublepack_savosin__sider2.png",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -1095,7 +1424,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/skate_wax_doublepack_savosin__sider3.png",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -1108,7 +1437,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/skate_wax_doublepack_savosin.png",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -1173,7 +1502,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/skate_wax_singlepack_savosin__sider2.png",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -1186,7 +1515,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/skate_wax_singlepack_savosin__sider3.png",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -1199,7 +1528,7 @@
       "oAP" : "\/docs\/img\/products\/sliders\/skate_wax_singlepack_savosin.png",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -1465,6 +1794,58 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/products\/snow-wax\/snow-wax-double-pack-wax.png" : {
+      "ft" : 32768,
+      "iS" : 221192,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/snow-wax\/snow-wax-double-pack-wax.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/snow-wax\/snow-wax-double-pack.png" : {
+      "ft" : 32768,
+      "iS" : 451207,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/snow-wax\/snow-wax-double-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/snow-wax\/snow-wax-single-pack-wax.png" : {
+      "ft" : 32768,
+      "iS" : 194165,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/snow-wax\/snow-wax-single-pack-wax.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/snow-wax\/snow-wax-single-pack.png" : {
+      "ft" : 32768,
+      "iS" : 582891,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/snow-wax\/snow-wax-single-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/products\/surf_wax_doublepack_n.png" : {
       "ft" : 32768,
       "iS" : 107522,
@@ -1517,11 +1898,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/productshot_sm.png" : {
+    "\/img\/products\/surf-wax\/surf-wax-double-pack-wax.png" : {
       "ft" : 32768,
-      "iS" : 53015,
+      "iS" : 231044,
       "oA" : 0,
-      "oAP" : "\/docs\/img\/productshot_sm.png",
+      "oAP" : "\/docs\/img\/products\/surf-wax\/surf-wax-double-pack-wax.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -1530,11 +1911,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/productshot_sm2.png" : {
+    "\/img\/products\/surf-wax\/surf-wax-double-pack.png" : {
       "ft" : 32768,
-      "iS" : 52394,
+      "iS" : 458881,
       "oA" : 0,
-      "oAP" : "\/docs\/img\/productshot_sm2.png",
+      "oAP" : "\/docs\/img\/products\/surf-wax\/surf-wax-double-pack.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -1543,11 +1924,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/productshot_under copy.png" : {
+    "\/img\/products\/surf-wax\/surf-wax-single-pack-wax.png" : {
       "ft" : 32768,
-      "iS" : 338117,
+      "iS" : 194140,
       "oA" : 0,
-      "oAP" : "\/docs\/img\/productshot_under copy.png",
+      "oAP" : "\/docs\/img\/products\/surf-wax\/surf-wax-single-pack-wax.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -1556,11 +1937,180 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/productshot_under.png" : {
+    "\/img\/products\/surf-wax\/surf-wax-single-pack.png" : {
       "ft" : 32768,
-      "iS" : 338117,
+      "iS" : 612447,
       "oA" : 0,
-      "oAP" : "\/docs\/img\/productshot_under.png",
+      "oAP" : "\/docs\/img\/products\/surf-wax\/surf-wax-single-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/t-shirts\/pattern-tshirt-detail.png" : {
+      "ft" : 32768,
+      "iS" : 489024,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/t-shirts\/pattern-tshirt-detail.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/t-shirts\/pattern-tshirt.png" : {
+      "ft" : 32768,
+      "iS" : 339684,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/t-shirts\/pattern-tshirt.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/thumbs\/caps.png" : {
+      "ft" : 32768,
+      "iS" : 40134,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/caps.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/thumbs\/dad-caps.png" : {
+      "ft" : 32768,
+      "iS" : 40677,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/dad-caps.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/thumbs\/pattern-tshirt.png" : {
+      "ft" : 32768,
+      "iS" : 56768,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/pattern-tshirt.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/thumbs\/skate-wax-double-pack.png" : {
+      "ft" : 32768,
+      "iS" : 134592,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/skate-wax-double-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/thumbs\/skate-wax-savosin-pro-double-pack.png" : {
+      "ft" : 32768,
+      "iS" : 136155,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/skate-wax-savosin-pro-double-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/thumbs\/skate-wax-savosin-pro-single-pack.png" : {
+      "ft" : 32768,
+      "iS" : 69941,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/skate-wax-savosin-pro-single-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/thumbs\/skate-wax-single-pack.png" : {
+      "ft" : 32768,
+      "iS" : 68312,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/skate-wax-single-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/thumbs\/snow-wax-double-pack.png" : {
+      "ft" : 32768,
+      "iS" : 137996,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/snow-wax-double-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/thumbs\/snow-wax-single-pack.png" : {
+      "ft" : 32768,
+      "iS" : 70083,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/snow-wax-single-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/thumbs\/surf-wax-double-pack.png" : {
+      "ft" : 32768,
+      "iS" : 132192,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/surf-wax-double-pack.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/thumbs\/surf-wax-single-pack.png" : {
+      "ft" : 32768,
+      "iS" : 71087,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/surf-wax-single-pack.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -1751,45 +2301,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/img\/test_sm copy.png" : {
-      "ft" : 32768,
-      "iS" : 52360,
-      "oA" : 0,
-      "oAP" : "\/docs\/img\/test_sm copy.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/test_sm_top.png" : {
-      "ft" : 32768,
-      "iS" : 12599,
-      "oA" : 0,
-      "oAP" : "\/docs\/img\/test_sm_top.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/test_sm.png" : {
-      "ft" : 32768,
-      "iS" : 52360,
-      "oA" : 0,
-      "oAP" : "\/docs\/img\/test_sm.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/img\/thankyou.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -1800,83 +2311,25 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/img\/waximages\/1.jpg" : {
-      "ft" : 16384,
-      "iS" : 98306,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/docs\/img\/waximages\/1.jpg",
+    "\/img\/x_symbol-single.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/docs\/img\/x_symbol-single.svg",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
-    "\/img\/waximages\/1.png" : {
-      "ft" : 32768,
-      "iS" : 256813,
-      "oA" : 0,
-      "oAP" : "\/docs\/img\/waximages\/1.png",
+    "\/img\/x_symbol.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/docs\/img\/x_symbol.svg",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/waximages\/2.jpg" : {
-      "ft" : 16384,
-      "iS" : 55672,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/docs\/img\/waximages\/2.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/waximages\/2.png" : {
-      "ft" : 32768,
-      "iS" : 155005,
-      "oA" : 0,
-      "oAP" : "\/docs\/img\/waximages\/2.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/waximages\/3.jpg" : {
-      "ft" : 16384,
-      "iS" : 101596,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/docs\/img\/waximages\/3.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/waximages\/3.png" : {
-      "ft" : 32768,
-      "iS" : 252537,
-      "oA" : 0,
-      "oAP" : "\/docs\/img\/waximages\/3.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/index.kit" : {
       "cB" : 0,
@@ -1897,6 +2350,17 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/js\/collapsible.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/docs\/js\/collapsible-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/js\/form.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -1904,6 +2368,28 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/docs\/js\/form-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/js\/modal.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/docs\/js\/modal-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/js\/nav.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/docs\/js\/nav-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -1930,44 +2416,12 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/ogskatewax.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/docs\/ogskatewax.html",
-      "oF" : 0
-    },
-    "\/partials\/_april-fools.html" : {
+    "\/partials\/_about.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/docs\/partials\/_april-fools.html",
-      "oF" : 0
-    },
-    "\/partials\/_blackfriday.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_blackfriday.html",
-      "oF" : 0
-    },
-    "\/partials\/_buy.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_buy.html",
-      "oF" : 0
-    },
-    "\/partials\/_buy2.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_buy2.html",
+      "oAP" : "\/docs\/partials\/_about.html",
       "oF" : 0
     },
     "\/partials\/_caps.html" : {
@@ -1976,22 +2430,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/docs\/partials\/_caps.html",
-      "oF" : 0
-    },
-    "\/partials\/_congrats.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_congrats.html",
-      "oF" : 0
-    },
-    "\/partials\/_contact_old_old.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_contact_old_old.html",
       "oF" : 0
     },
     "\/partials\/_contact.html" : {
@@ -2050,22 +2488,6 @@
       "oAP" : "\/docs\/partials\/_footer.html",
       "oF" : 0
     },
-    "\/partials\/_footer2.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_footer2.html",
-      "oF" : 0
-    },
-    "\/partials\/_header_blck.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_header_blck.html",
-      "oF" : 0
-    },
     "\/partials\/_header_gray.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -2082,36 +2504,12 @@
       "oAP" : "\/docs\/partials\/_header.html",
       "oF" : 0
     },
-    "\/partials\/_nav.html" : {
+    "\/partials\/_nav.kit" : {
       "cB" : 0,
-      "ft" : 8192,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/docs\/partials\/_nav.html",
-      "oF" : 0
-    },
-    "\/partials\/_nav2.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_nav2.html",
-      "oF" : 0
-    },
-    "\/partials\/_nav3.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_nav3.html",
-      "oF" : 0
-    },
-    "\/partials\/_ogskatewax.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_ogskatewax.html",
       "oF" : 0
     },
     "\/partials\/_privacypolicy.html" : {
@@ -2122,9 +2520,41 @@
       "oAP" : "\/docs\/partials\/_privacypolicy.html",
       "oF" : 0
     },
-    "\/partials\/_products.html" : {
+    "\/partials\/_products-accessories.html" : {
       "cB" : 0,
       "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/docs\/partials\/_products-accessories.html",
+      "oF" : 0
+    },
+    "\/partials\/_products-skatewax.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/docs\/partials\/_products-skatewax.html",
+      "oF" : 0
+    },
+    "\/partials\/_products-snowwax.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/docs\/partials\/_products-snowwax.html",
+      "oF" : 0
+    },
+    "\/partials\/_products-surfwax.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/docs\/partials\/_products-surfwax.html",
+      "oF" : 0
+    },
+    "\/partials\/_products.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/docs\/partials\/_products.html",
@@ -2186,22 +2616,6 @@
       "oAP" : "\/docs\/partials\/_skate_caps.html",
       "oF" : 0
     },
-    "\/partials\/_t-shirt-ogwax.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_t-shirt-ogwax.html",
-      "oF" : 0
-    },
-    "\/partials\/_t-shirt-skatewax.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_t-shirt-skatewax.html",
-      "oF" : 0
-    },
     "\/partials\/_t-shirt.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2226,28 +2640,12 @@
       "oAP" : "\/docs\/partials\/_termsofuse.html",
       "oF" : 0
     },
-    "\/partials\/_thankyou.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_thankyou.html",
-      "oF" : 0
-    },
     "\/partials\/_wax.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/docs\/partials\/_wax.html",
-      "oF" : 0
-    },
-    "\/partials\/_wheretofindus.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/docs\/partials\/_wheretofindus.html",
       "oF" : 0
     },
     "\/privacypolicy.kit" : {
@@ -2322,6 +2720,14 @@
       "oAP" : "\/docs\/single_pack_surf_wax.html",
       "oF" : 0
     },
+    "\/site.webmanifest" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/site.webmanifest",
+      "oF" : 0
+    },
     "\/sitemap.xml" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2338,20 +2744,28 @@
       "oAP" : "\/docs\/skate_caps.html",
       "oF" : 0
     },
-    "\/t-shirt-ogwax.kit" : {
+    "\/skatewax-products.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/t-shirt-ogwax.html",
+      "oAP" : "\/docs\/skatewax-products.html",
       "oF" : 0
     },
-    "\/t-shirt-skatewax.kit" : {
+    "\/ski&snowboardwax-products.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/t-shirt-skatewax.html",
+      "oAP" : "\/docs\/ski&snowboardwax-products.html",
+      "oF" : 0
+    },
+    "\/surfwax-products.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/surfwax-products.html",
       "oF" : 0
     },
     "\/t-shirt.kit" : {
@@ -2377,22 +2791,6 @@
       "oA" : 0,
       "oAP" : "\/docs\/termsofuse.html",
       "oF" : 0
-    },
-    "\/thankyou.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/docs\/thankyou.html",
-      "oF" : 0
-    },
-    "\/wheretofindus.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/docs\/wheretofindus.html",
-      "oF" : 0
     }
   },
   "hooks" : [
@@ -2405,9 +2803,9 @@
     "creationDate" : 615714396.83256304,
     "displayValue" : "jwax",
     "displayValueWasSetByUser" : 1,
-    "iconImageName" : "brackets_purple",
+    "iconImageName" : "\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 653646089.40482795
+    "lastBuiltDate" : 686333577.00369
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

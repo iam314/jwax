@@ -1,0 +1,78 @@
+.size-16 {
+  font-size: 1rem;
+}
+
+.size-20 {
+  font-size: 1.25rem;
+}
+
+.size-24 {
+  font-size: 1.5rem;
+}
+
+.size-28 {
+  font-size: 1.75rem;
+}
+
+.size-32 {
+  font-size: 2rem;
+}
+
+.size-36 {
+  font-size: 2.25rem;
+}
+
+.size-60 {
+  font-size: 3.75rem;
+}
+
+.size-92 {
+  font-size: 5.75rem;
+}
+
+.line-height-100 {
+  line-height: 100%;
+}
+
+.line-height-150 {
+  line-height: 150%;
+}
+
+h1 {
+  font-family: 'Akrobat-Black', 'sans-serif';
+  line-height: 100%;
+  margin-left: -4px;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: 'Akrobat-Black', 'sans-serif';
+  line-height: 100%;
+  margin-left: -2px;
+}
+
+h3 {
+  font-family: 'Akrobat-Black', 'sans-serif';
+  line-height: 100%;
+}
+  
+p {
+  display: inline-block;
+  font-family: 'Akrobat-SemiBold', 'sans-serif';
+  line-height: 150%;
+  max-width: 66ch;
+}
+
+.font-weight-black {
+  font-family: 'Akrobat-Black', 'sans-serif';
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+//this should be transfered to classes of size
+.local-stores-title {
+  font-family: 'Akrobat-Black', 'sans-serif';
+  font-size: 1.25rem;
+  
+}

@@ -1,58 +1,49 @@
-	<section class="container-fluid wrapper">
-	<div id="formsucces">
-		<div class="row">
-				<div class="col col--12-of-12">
-					<div class="cbox">
-						<h1>Hello, Friend!</h1>
-						<p>
-							Want to say hi? Have anything else
-							in mind?<br>Use the form.
-							You can also
-							reach us at:<br><a href="mailto:hello@jwax.wtf" target="_top" class="links">hello@jwax.wtf</a>,
-							<a href="https://www.facebook.com/jwaxwtf/" class="links">Facebook</a> or
-							<a href="https://www.instagram.com/jwaxsofia/" class="links">Instagram</a>
+<section class="wrapper">
+	<div class="container margin-top margin-top-100">
+		<div class="grid-2">
+
+				<div class="grid-item">
+					<div class="x-symbol"></div>
+					<h1 class="black size-92 uppercase">Hello</h1>
+					<p class="black size-24">
+						Use the form to tell us what's on your mind.<br>You can also write to us at <a href="mailto:hello@jwax.wtf" target="_top" class="links">hello@jwax.wtf</a>.<br><br>
+						You can reach us on our social media channels <br>
+						<a href="https://www.facebook.com/jwaxwtf/" class="links">Facebook</a>,
+						<a href="https://www.instagram.com/jwaxsofia/" class="links">Instagram</a>, or
+						<a href="https://www.tiktok.com/@jwax_official" class="links">TikTok</a>.
+					</p>
+				</div>
+		
+	
+			<div class="grid-item">
+				<div id="formsucces">
+					<form id="contactform" action="https://formspree.io/f/xyybajld" method="POST">
+						<label for="contact-name">Name</label>
+						<input type="text" name="name" placeholder="Name" required>
+						<label for="contact-email">Email</label>
+						<input type="text" name="_replyto" placeholder="Email" required>
+						<input type="hidden" name="_subject" value="Website Form" />
+						<input type="hidden" name="_next" value="thankyou.html" />
+						<label for="contact-message">Message</label>
+						<textarea name="message" placeholder="Your message" rows="7" cols="10"></textarea>
+						<input type="text" name="_gotcha" class="personalinfo" />
+						<button class="submit" id="button" type="submit" value="Send">Send it</button>
+					</form>
+			</div>
+
+				<div class="container">
+							<div id="status"></div>
+				</div>
+
+				<div id="status" class="container">
+					<div class="thnks_contact" id="thnks">
+						<div class="x-symbol"></div>
+						<p class="black size-24"><span class="font-weight-black uppercase">Your message was received.</span> <br> We'll get back to you.
 						</p>
+							<!-- <img src="img/gotit.svg" style="width:100%" alt="Thank You"> -->
 					</div>
-				</div>
-			</div>
+				</div>	
 
-
-
-		<div class="row">
-			<div class="col col--12-of-12">
-				<form id="contactform" action="https://formspree.io/f/xyybajld" method="POST">
-					<!-- <label for="contact-name">Name</label> -->
-				  <input type="text" name="name" placeholder="Name" required>
-					<!-- <label for="contact-email">email</label> -->
-				  <input type="text" name="_replyto" placeholder="Email" required>
-					<input type="hidden" name="_subject" value="Website Form" />
-					<input type="hidden" name="_next" value="thankyou.html" />
-					<!-- <label for="contact-message">message</label> -->
-					<textarea name="message" placeholder="Message" rows="7" cols="10"></textarea>
-					<input type="text" name="_gotcha" class="personalinfo" />
-					<button class="submit btnfix" id="button" type="submit" value="Send">Send it</button>
-				</form>
-			</div>
-		</div>
-
-</div>
-
-	<div class="container">
-		<div class="row">
-			<div class="col col--12-of-12">
-				<div id="status">
-				</div>
-			</div>
-		</div>
+		</div>		
 	</div>
-
-
-	<div id="status" class="container">
-		<div class="row thnks_contact" id="thnks">
-				<div class="col col--12-of-12 col col--centered" style="max-width: 476px;">
-					<img src="img/gotit.svg" style="width:100%" alt="Thank You">
-			</div>
-		</div>
-	</div>
-
-	</section>
+</section>

@@ -19,7 +19,7 @@ window.addEventListener("DOMContentLoaded", function() {
 
    function error() {
      status.classList.add('error')
-     status.innerHTML = "Oops! A Thing went wrong.";
+     status.innerHTML = "Oops! Something went wrong.";
    }
 
    // handle the form submission event
