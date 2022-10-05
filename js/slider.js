@@ -1,3 +1,5 @@
+//THis code is in slick.min.js top 
+
 $(document).ready(function(){
   $('.slideshow-container').slick({
     arrows: true

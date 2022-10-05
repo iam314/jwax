@@ -960,6 +960,7 @@ a.mobile-sub-links {
     right: 6.7%;
   }
   footer {
+    margin-top: 7.5rem; 
     line-height: 160%;
   }
   footer p {
@@ -1014,13 +1015,19 @@ a.mobile-sub-links {
   .margin-top-20 {
       margin-top: 1rem;
   }
+  .slideshow-container {
+    margin-bottom: 2.75rem;
+  }
 }
 
 @media screen and (max-width: 768px) {
+  footer {
+    margin-top: 6.25rem; 
+  }
 
   .grid-2, .grid-2-product, .grid-4, .grid-2-product  {
     grid-column-gap: .75rem;
-    grid-row-gap: 2.75rem;
+    grid-row-gap: 2rem;
   }
   .grid-3 {
     grid-column-gap: .75rem;
@@ -1038,8 +1045,15 @@ a.mobile-sub-links {
   .size-92 {
     font-size: 2.5rem;
   }
-  .margin-top-32 {
+  .margin-top-60 {
+    margin-top: 2rem;
+  }
+  .margin-top-40 {
     margin-top: 1rem;
+  }
+
+  .margin-top-32 {
+    margin-top: .75rem;
   }
   .cta-wapper {
     gap: .75rem;
@@ -1047,6 +1061,9 @@ a.mobile-sub-links {
 
   footer {
     font-size: .85rem;
+  }
+  .slideshow-container {
+    margin-bottom: 2rem;
   }
 }
 
@@ -1071,46 +1088,30 @@ a.mobile-sub-links {
   }
   .local-stores-wrapper {
     gap: 1.25rem;
-}
-.size-60 {
-  font-size: 2rem;
-}
-.size-92 {
-  font-size: 2.25rem;
-}
-.margin-top-32 {
-  margin-top: .5rem;
-}
-.cta-wapper {
-  gap: .75rem;
-}
+  }
+  .size-60 {
+    font-size: 2rem;
+  }
+  .size-92 {
+    font-size: 2.25rem;
+  }
+  .margin-top-32 {
+    margin-top: .5rem;
+  }
+  .cta-wapper {
+    gap: .75rem;
+  }
 
-// .hidedesktop-to-xs:had(.slideshow-container-wrapper):has(.slideshow-container) {
-//   margin-bottom: 0;
-// }
-  // // footer a {
-  // //   display: block;
-  // // }
-
-  // .cancer-banner p {
-  //   font-size: .9rem;
-  // }
-  // .cancer-banner {
-  //   padding-top: .75rem;
-  //   padding-right: .75rem;
-  //   padding-left: .75rem;
-  //   padding-bottom: .75rem;
-  // }
+  .cancer-banner {
+    padding-top: 1.75rem;
+    padding-right: 1.75rem;
+    padding-left: 1.75rem;
+    padding-bottom: 1.75rem;
+  }
   // .cta-wapper {
   //   gap: 1.4rem;
   // }
-  // .size-60 {
-  //   font-size: 1.75rem;
-  // }
 
-  // .size-92 {
-  //   font-size: 2.75rem;
-  // }
   // .btn {
   //   padding: 0.5rem .75rem;
   // }
