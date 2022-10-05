@@ -2339,17 +2339,6 @@
       "oAP" : "\/docs\/index.html",
       "oF" : 0
     },
-    "\/js\/buttons.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/docs\/js\/buttons-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
     "\/js\/collapsible.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -2837,7 +2826,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 686653761.120386
+    "lastBuiltDate" : 686670906.90220404
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
