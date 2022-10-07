@@ -282,6 +282,7 @@ footer {
   font-family: 'Akrobat-SemiBold', 'sans-serif';
   text-decoration: none;
   transition: all 50ms ease-in-out;
+  cursor: pointer;
   &:hover{
     color: $color-red;
   }

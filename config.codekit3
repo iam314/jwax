@@ -141,6 +141,18 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/css\/cookieconsent.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 1,
+      "ft" : 16,
+      "ma" : 1,
+      "oA" : 0,
+      "oAP" : "\/docs\/css\/cookieconsent.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/css\/fonts.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -2350,6 +2362,28 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/js\/cookieconsent-init.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/js\/cookieconsent-init-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/js\/cookieconsent.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/js\/cookieconsent-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/js\/form.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -2826,7 +2860,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 686670906.90220404
+    "lastBuiltDate" : 686830836.99620605
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
