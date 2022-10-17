@@ -341,10 +341,12 @@ footer {
   background-image: url(../img/x_symbol.svg);
 	background-repeat: no-repeat;
 }
+
 .x-symbol-single {
-  height: 1.25rem;
-  background-image: url(../img/x_symbol-single.svg);
-	background-repeat: repeat-x;
+  height: 1.5rem;
+  background-image: url(../img/x_symbol_cta-xxl.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
   width: 100%;
 }
 
@@ -677,12 +679,14 @@ a.mobile-sub-links {
   .size-92 {
     font-size: 5.563rem;
   }
-
   .cta-wapper {
     gap: 2.25rem;
   }
   .cta-home {
     font-size: 1.563rem;
+  }
+  .x-symbol-single {
+    background-image: url(../img/x_symbol_cta-xl.svg);
   }
 
 .grid-3, .grid-4 {
@@ -736,6 +740,9 @@ a.mobile-sub-links {
   }
   .cta-home {
     font-size: 1.5rem;
+  }
+  .x-symbol-single {
+    background-image: url(../img/x_symbol_cta-l.svg);
   }
 
   .grid-3, .grid-4 {
@@ -863,10 +870,14 @@ a.mobile-sub-links {
   .logo_b {
     height: 2.25rem;
   }
-
+  
   footer {
     margin-top: 8.75rem; 
     font-size: 1rem;
+  }
+  .x-symbol-single {
+    height: 1.3rem;
+    background-image: url(../img/x_symbol_cta-m.svg);
   }
   .margin-top-100 {
     margin-top: 5rem;
@@ -938,9 +949,6 @@ a.mobile-sub-links {
   .local-stores-wrapper {
     gap: 1.75rem;
   }
-  .x-symbol-single {
-    height: 1rem;
-  }
   input, textarea, select {
     padding: .5rem .5rem;
     margin-bottom: 1rem;
@@ -975,6 +983,10 @@ a.mobile-sub-links {
   }
   .cta-wapper {
     gap: 1.25rem;
+  }
+  .x-symbol-single {
+    height: 1.2rem;
+    background-image: url(../img/x_symbol_cta-s.svg);
   }
   .grid-2, .grid-2-product, .grid-3, .grid-4, .grid-2-product  {
     grid-column-gap: 1.25rem;
@@ -1024,6 +1036,10 @@ a.mobile-sub-links {
 @media screen and (max-width: 768px) {
   footer {
     margin-top: 6.25rem; 
+  }
+  .x-symbol-single {
+    height: 1.1rem;
+    background-image: url(../img/x_symbol_cta-xs.svg);
   }
   .grid-2, .grid-2-product, .grid-4, .grid-2-product  {
     grid-column-gap: .75rem;
@@ -1076,7 +1092,10 @@ a.mobile-sub-links {
   .hidedesktop-to-xs {
     display: block;
   }
-
+  .x-symbol-single {
+    height: 1.4rem;
+    background-image: url(../img/x_symbol_cta-xxs.svg);
+  }
   .products-title-reset-xs {
     line-height: 100%;
     margin-top: 0.5rem;
