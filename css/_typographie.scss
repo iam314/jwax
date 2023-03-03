@@ -38,6 +38,11 @@
   line-height: 150%;
 }
 
+.discount-price {
+  color: $color-discount-gray;
+  text-decoration: line-through;
+}
+
 h1 {
   font-family: 'Akrobat-Black', 'sans-serif';
   line-height: 100%;
