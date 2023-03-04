@@ -233,6 +233,14 @@
       "oAP" : "\/docs\/cuffed_beanies.html",
       "oF" : 0
     },
+    "\/deals-products.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/deals-products.html",
+      "oF" : 0
+    },
     "\/docs" : {
       "ft" : 65536,
       "oA" : 1,
@@ -269,6 +277,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/docs\/double_pack_surf_wax.html",
+      "oF" : 0
+    },
+    "\/double_skate_wax_&_cuffed_beanie.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/double_skate_wax_&_cuffed_beanie.html",
+      "oF" : 0
+    },
+    "\/double_skate_wax_&_skate_beanie.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/double_skate_wax_&_skate_beanie.html",
       "oF" : 0
     },
     "\/FAQ.kit" : {
@@ -3117,6 +3141,22 @@
       "oAP" : "\/docs\/ror.xml",
       "oF" : 0
     },
+    "\/Savosin_double_skate_wax_&_cuffed_beanie.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/Savosin_double_skate_wax_&_cuffed_beanie.html",
+      "oF" : 0
+    },
+    "\/savosin_single_skate_wax_&_skate_beanie.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/savosin_single_skate_wax_&_skate_beanie.html",
+      "oF" : 0
+    },
     "\/shippingpolicy.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3155,6 +3195,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/docs\/single_pack_surf_wax.html",
+      "oF" : 0
+    },
+    "\/single_skate_wax_&_cuffed_beanie.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/single_skate_wax_&_cuffed_beanie.html",
+      "oF" : 0
+    },
+    "\/single_skate_wax_&_skate_beanie.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/single_skate_wax_&_skate_beanie.html",
       "oF" : 0
     },
     "\/site.webmanifest" : {
@@ -3211,6 +3267,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/docs\/ski&snowboardwax-products.html",
+      "oF" : 0
+    },
+    "\/snow_single_wax_&_cuffed_beanie.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/snow_single_wax_&_cuffed_beanie.html",
+      "oF" : 0
+    },
+    "\/snow_single_wax_&_skate_beanie.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/snow_single_wax_&_skate_beanie.html",
       "oF" : 0
     },
     "\/surfwax-products.kit" : {
