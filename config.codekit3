@@ -3141,12 +3141,12 @@
       "oAP" : "\/docs\/ror.xml",
       "oF" : 0
     },
-    "\/Savosin_double_skate_wax_&_cuffed_beanie.kit" : {
+    "\/savosin_double_skate_wax_&_cuffed_beanie.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/docs\/Savosin_double_skate_wax_&_cuffed_beanie.html",
+      "oAP" : "\/docs\/savosin_double_skate_wax_&_cuffed_beanie.html",
       "oF" : 0
     },
     "\/savosin_single_skate_wax_&_skate_beanie.kit" : {
@@ -3346,7 +3346,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 699615723.06063998
+    "lastBuiltDate" : 699616007.86524296
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
