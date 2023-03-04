@@ -2587,7 +2587,7 @@
       "oAP" : "\/docs\/img\/team\/Kate_Bedrata.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -3346,7 +3346,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 686830836.99620605
+    "lastBuiltDate" : 699615723.06063998
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
