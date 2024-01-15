@@ -7,7 +7,7 @@
       "uuidString" : "8E6373A3-22BD-4706-A30A-5C18C2ADDC22"
     }
   ],
-  "creatorBuild" : "34510",
+  "creatorBuild" : "34513",
   "files" : {
     "\/.gitattributes" : {
       "cB" : 0,
@@ -527,6 +527,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/docs\/fonts\/Akrobat-Thin.woff2",
+      "oF" : 0
+    },
+    "\/giftcards-products.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/giftcards-products.html",
+      "oF" : 0
+    },
+    "\/giftcardspolicy.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/docs\/giftcardspolicy.html",
       "oF" : 0
     },
     "\/img\/background copy.svg" : {
@@ -2891,6 +2907,45 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/products\/thumbs\/giftcards\/giftcard_20.png" : {
+      "ft" : 32768,
+      "iS" : 31024,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/giftcards\/giftcard_20.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/thumbs\/giftcards\/giftcard_40.png" : {
+      "ft" : 32768,
+      "iS" : 30835,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/giftcards\/giftcard_40.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/products\/thumbs\/giftcards\/giftcard_50.png" : {
+      "ft" : 32768,
+      "iS" : 30751,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/products\/thumbs\/giftcards\/giftcard_50.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/products\/thumbs\/pattern-tshirt.png" : {
       "ft" : 32768,
       "iS" : 56768,
@@ -3555,6 +3610,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/docs\/partials\/_footer.html",
+      "oF" : 0
+    },
+    "\/partials\/_giftcardspolicy.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/docs\/partials\/_giftcardspolicy.html",
       "oF" : 0
     },
     "\/partials\/_header_gray.kit" : {
@@ -4864,9 +4927,6 @@
       "no-return-assign" : {
         "active" : 0,
         "optionString" : "'except-parens'"
-      },
-      "no-return-await" : {
-        "active" : 0
       },
       "no-script-url" : {
         "active" : 0
