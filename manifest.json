@@ -1,9 +1,9 @@
 {
   "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "background_color": "#fddddd",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/index.html",
+  "scope": "https://example.com/",
+  "start_url": "index.html",
   "name": "Jwax",
   "short_name": "Jwax",
   "description": "We are JWAX. The boobie shaped wax for skate, ski and surf. A crazy idea born out of years of skating experience, injuries, friendships, fun, and parties.",
