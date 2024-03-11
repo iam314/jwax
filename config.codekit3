@@ -545,6 +545,58 @@
       "oAP" : "\/docs\/giftcardspolicy.html",
       "oF" : 0
     },
+    "\/img\/appicons\/icon-192x192.png" : {
+      "ft" : 32768,
+      "iS" : 1941,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/appicons\/icon-192x192.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/appicons\/icon-256x256.png" : {
+      "ft" : 32768,
+      "iS" : 2506,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/appicons\/icon-256x256.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/appicons\/icon-384x384.png" : {
+      "ft" : 32768,
+      "iS" : 4930,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/appicons\/icon-384x384.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/appicons\/icon-512x512.png" : {
+      "ft" : 32768,
+      "iS" : 6655,
+      "oA" : 0,
+      "oAP" : "\/docs\/img\/appicons\/icon-512x512.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/img\/background copy.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -3531,6 +3583,14 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/manifest.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/docs\/manifest-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
     },
     "\/partials\/_about.html" : {
       "cB" : 0,
