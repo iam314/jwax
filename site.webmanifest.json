@@ -27,8 +27,7 @@
         "src": "/img/appicons/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
-    }
-        …
+    },
     {
         "src": "/img/appicons/maskable_icon.png",
         "sizes": "512x512",
