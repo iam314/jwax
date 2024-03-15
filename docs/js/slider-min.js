@@ -1,1 +1,2 @@
 function nextSlide(){$(".slideshow-container").slick("slickNext")}function prevSlide(){$(".slideshow-container").slick("slickPrev")}function goToSlide(i){$(".slideshow-container").slick("slickGoTo",i)}$(document).ready((function(){$(".slideshow-container").slick({arrows:!0}),$(".slideshow-container").on("afterChange",(function(i,e,o,n){$(".dot").removeClass("active");let s=$(".dot")[o];$(s).addClass("active")}))}));
+//# sourceMappingURL=slider-min.js.map
