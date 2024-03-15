@@ -7,7 +7,7 @@
       "uuidString" : "8E6373A3-22BD-4706-A30A-5C18C2ADDC22"
     }
   ],
-  "creatorBuild" : "34513",
+  "creatorBuild" : "34564",
   "files" : {
     "\/.gitattributes" : {
       "cB" : 0,
@@ -4040,6 +4040,17 @@
       "oAP" : "\/docs\/surfwax-products.html",
       "oF" : 0
     },
+    "\/sw.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/docs\/sw-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/t-shirt.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -4397,7 +4408,7 @@
       "NODE_ENV:::production"
     ],
     "esLintConfigFileHandlingType" : 0,
-    "esLintECMAVersion" : 7,
+    "esLintECMAVersion" : 0,
     "esLintEnvironmentsMask" : 1,
     "esLintRules" : {
       "accessor-pairs" : {
@@ -4919,9 +4930,6 @@
       "no-new-native-nonconstructor" : {
         "active" : 0
       },
-      "no-new-object" : {
-        "active" : 0
-      },
       "no-new-symbol" : {
         "active" : 1
       },
@@ -4933,6 +4941,9 @@
       },
       "no-obj-calls" : {
         "active" : 1
+      },
+      "no-object-constructor" : {
+        "active" : 0
       },
       "no-octal" : {
         "active" : 1
