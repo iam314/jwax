@@ -29,14 +29,22 @@
 	<link rel="manifest" href="site.webmanifest.json">
 	<meta name="theme-color" content="#ffffff"/>
 	<!-- Register the app's service worker. -->
-<!-- <script>
-  if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("sw.js");
-  }
-</script> -->
+	<script>
+		if ('serviceWorker' in navigator) {
+			window.addEventListener('load', function() {
+				navigator.serviceWorker.register('/sw-min.js').then(function(registration) {
+					// Registration was successful
+					console.log('ServiceWorker registration successful with scope: ', registration.scope);
+				}, function(err) {
+					// Registration failed
+					console.log('ServiceWorker registration failed: ', err);
+				});
+			});
+		}
+	</script>
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6PQZLZXKGK"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6PQZLZXKGK"></>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
