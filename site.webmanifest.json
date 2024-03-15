@@ -28,5 +28,12 @@
         "sizes": "512x512",
         "type": "image/png"
     }
+        …
+    {
+        "src": "/img/appicons/Maskable Icon.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    }
 ]
 }

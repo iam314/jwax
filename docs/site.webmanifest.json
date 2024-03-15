@@ -1,1 +1,39 @@
-{"icons":[{"src":"\/img\/appicons\/icon-192x192.png","sizes":"192x192","type":"image\/png"},{"src":"\/img\/appicons\/icon-256x256.png","sizes":"256x256","type":"image\/png"},{"src":"\/img\/appicons\/icon-384x384.png","sizes":"384x384","type":"image\/png"},{"src":"\/img\/appicons\/icon-512x512.png","sizes":"512x512","type":"image\/png"}],"theme_color":"#ffffff","display":"standalone","scope":"\/","background_color":"#ffffff","short_name":"Jwax","description":"We are JWAX. The boobie shaped wax for skate, ski and surf. A crazy idea born out of years of skating experience, injuries, friendships, fun, and parties.","start_url":"\/index.html","name":"Jwax handcrafted wax"}
+{
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "/index.html",
+  "name": "Jwax handcrafted wax",
+  "short_name": "Jwax",
+  "description": "We are JWAX. The boobie shaped wax for skate, ski and surf. A crazy idea born out of years of skating experience, injuries, friendships, fun, and parties.",
+  "icons": [
+    {
+    "src": "/img/appicons/icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    },
+    {
+        "src": "/img/appicons/icon-256x256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+    },
+    {
+        "src": "/img/appicons/icon-384x384.png",
+        "sizes": "384x384",
+        "type": "image/png"
+    },
+    {
+        "src": "/img/appicons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+        …
+    {
+        "src": "/img/appicons/Maskable Icon.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    }
+]
+}

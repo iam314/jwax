@@ -3954,7 +3954,7 @@
     },
     "\/site.webmanifest.json" : {
       "ft" : 524288,
-      "oA" : 0,
+      "oA" : 2,
       "oAP" : "\/docs\/site.webmanifest.json",
       "oF" : 0,
       "oO" : 0,
@@ -4096,7 +4096,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 732206364.13388503
+    "lastBuiltDate" : 732207641.17006803
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
@@ -5440,7 +5440,7 @@
       "transpilerStyle" : 0
     },
     "languageDefaultsJSON" : {
-      "autoOutputAction" : 0,
+      "autoOutputAction" : 2,
       "autoOutputPathFilenamePattern" : "*.json",
       "autoOutputPathRelativePath" : "",
       "autoOutputPathReplace1" : "",
