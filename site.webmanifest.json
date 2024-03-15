@@ -30,7 +30,7 @@
     }
         …
     {
-        "src": "/img/appicons/Maskable Icon.png",
+        "src": "/img/appicons/maskable_icon.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "maskable"
